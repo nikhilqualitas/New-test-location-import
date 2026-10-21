@@ -1,22 +1,22 @@
-﻿Fields, ID,Company ID,Location Name,Location Type,Street Address 1,Street Address 2,Country,City,US State,Zip or Postal Code
-Examples,1868895,1091721,"SageSure Insurance Managers, LLC - Jersey City",Headquarters,101 Hudson Street,Suite 2700,US,"101 Hudson Street, Suite 2700",New Jersey,7302
-,951,1876,Aon PLC - Mason,Headquarters,5181 Natorp Blvd.,Suite 2301,US,Mason,Ohio,45040
-,952,1877,"Aon Re., Inc - Chicago",Physical,200 East Randolph Street,,US,Chicago,Illinois,60601
-,2532,1878,"Aon Service Corporation, its partent, their affiliates & subs",Branch,200 East Randolph Street,11th Floor,US,Chicago,Illinois,60601
-,563533,2110,Aon Edge Insurance Agency - Gale Portwine,Headquarters,5005 Lyndon B Johnson Fwy,Suite 1500,US,Dallas,Texas,75244
-,256523,30344,Aon Commercial Risk Solutions - Chicago,Headquarters,200 East Randolph Street,8th Floor,US,Chicago,Illinois,60601
-,304376,35248,"Aon Edge Insurance Agency, Inc. - Kalispell",Headquarters,1327 Highway 2 West,Suite 100,US,Kalispell,Montana,59901
-,1185862,90364,Aon PLC - Jeff Reider,Headquarters,,,,,,
-,1158452,90364,Aon PLC - Baltimore,Physical,5181 Natorp Blvd.,Suite 201,US,Baltimore,Ohio,45040
-,393004,90364,Aon PLC - Chicago,Headquarters,200 East Randolph Street,,US,Chicago,Illinois,60601
-,1868735,1090814,Aon Impact Forecasting - Boston,Headquarters,53 State Street,,US,Boston,Massachusetts,2109
-,1867606,428262,"Affordable Equity Partners, Inc. - Poolville",Headquarters,1031 Arbor Hills Ct.,,US,Poolville,Texas,76487
-,317572,38523,"Affordable Equity Partners, Inc. - Dan Torgerson",Headquarters,3290 Northside Parkway,Suite 300,US,Atlanta,Georgia,30327
-,316115,37406,"Affordable Equity Partners, Inc.",Headquarters,3290 Northside Parkway NW,Suite 300,US,Atlanta,Georgia,30327
-,1868861,1091493,Rokstone Underwriters North America Ltd. - Alpharetta,Headquarters,13560 Morris Road,Suite 4350,US,Alpharetta,Georgia,30004
-,,943080,Rokstone Underwriters North America Ltd. - Louisa Dewey,,,,,,,
-,1650019,941691,Rokstone Underwriters (North America) Ltd. - Fort Lauderdale,Headquarters,100 SE 3rd Avenue,Suite 801,US,Fort Lauderdale,Florida,33394
-,1868171,1089983,Stradley Ronon Stevens & Young LLC - Philadelphia,Headquarters,2005 Market Street,Suite 2600,US,Philadelphia,Pennsylvania,19103
-,618135,2203,Stradley Ronon Stevens & Young LLP - William T. Mandia,Headquarters,2005 Market Street,Suite 2600,US,Philadelphia,Pennsylvania,19103
-,1277,2202,Stradley Ronon Stevens & Young LLP - Philadelphia,Headquarters,2005 Market Street,Suite 2600,US,Philadelphia,Pennsylvania,19103
-,801,1711,"STRADLEY RONON STEVENS & YOUNG LLP - 2005 MARKET STREET, SUITE 2600",Headquarters,"2005 MARKET STREET, SUITE 2600",,US,Philadelphia,Pennsylvania,19103
+﻿ ID,Company ID,Location Name,Location Type,Street Address 1,Street Address 2,Country,City,US State,Zip or Postal Code
+1868895,1091721,"SageSure Insurance Managers, LLC - Jersey City",Headquarters,101 Hudson Street,Suite 2700,US,"101 Hudson Street, Suite 2700",New Jersey,7302
+951,1876,Aon PLC - Mason,Headquarters,5181 Natorp Blvd.,Suite 2301,US,Mason,Ohio,45040
+952,1877,"Aon Re., Inc - Chicago",Physical,200 East Randolph Street,,US,Chicago,Illinois,60601
+2532,1878,"Aon Service Corporation, its partent, their affiliates & subs",Branch,200 East Randolph Street,11th Floor,US,Chicago,Illinois,60601
+563533,2110,Aon Edge Insurance Agency - Gale Portwine,Headquarters,5005 Lyndon B Johnson Fwy,Suite 1500,US,Dallas,Texas,75244
+256523,30344,Aon Commercial Risk Solutions - Chicago,Headquarters,200 East Randolph Street,8th Floor,US,Chicago,Illinois,60601
+304376,35248,"Aon Edge Insurance Agency, Inc. - Kalispell",Headquarters,1327 Highway 2 West,Suite 100,US,Kalispell,Montana,59901
+1185862,90364,Aon PLC - Jeff Reider,Headquarters,,,,,,
+1158452,90364,Aon PLC - Baltimore,Physical,5181 Natorp Blvd.,Suite 201,US,Baltimore,Ohio,45040
+393004,90364,Aon PLC - Chicago,Headquarters,200 East Randolph Street,,US,Chicago,Illinois,60601
+1868735,1090814,Aon Impact Forecasting - Boston,Headquarters,53 State Street,,US,Boston,Massachusetts,2109
+1867606,428262,"Affordable Equity Partners, Inc. - Poolville",Headquarters,1031 Arbor Hills Ct.,,US,Poolville,Texas,76487
+317572,38523,"Affordable Equity Partners, Inc. - Dan Torgerson",Headquarters,3290 Northside Parkway,Suite 300,US,Atlanta,Georgia,30327
+316115,37406,"Affordable Equity Partners, Inc.",Headquarters,3290 Northside Parkway NW,Suite 300,US,Atlanta,Georgia,30327
+1868861,1091493,Rokstone Underwriters North America Ltd. - Alpharetta,Headquarters,13560 Morris Road,Suite 4350,US,Alpharetta,Georgia,30004
+,943080,Rokstone Underwriters North America Ltd. - Louisa Dewey,,,,,,,
+1650019,941691,Rokstone Underwriters (North America) Ltd. - Fort Lauderdale,Headquarters,100 SE 3rd Avenue,Suite 801,US,Fort Lauderdale,Florida,33394
+1868171,1089983,Stradley Ronon Stevens & Young LLC - Philadelphia,Headquarters,2005 Market Street,Suite 2600,US,Philadelphia,Pennsylvania,19103
+618135,2203,Stradley Ronon Stevens & Young LLP - William T. Mandia,Headquarters,2005 Market Street,Suite 2600,US,Philadelphia,Pennsylvania,19103
+1277,2202,Stradley Ronon Stevens & Young LLP - Philadelphia,Headquarters,2005 Market Street,Suite 2600,US,Philadelphia,Pennsylvania,19103
+801,1711,"STRADLEY RONON STEVENS & YOUNG LLP - 2005 MARKET STREET, SUITE 2600",Headquarters,"2005 MARKET STREET, SUITE 2600",,US,Philadelphia,Pennsylvania,19103
